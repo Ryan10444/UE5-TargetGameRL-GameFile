@@ -1,1 +1,3 @@
-# UE5-TargetGameRL-GameFile
+This is my first ever game made in Unreal Engine 5. It is extremely barebones, as it was a learning project that I used to learn the basics of UE5. The idea of the game is to shoot 15 targets as fast as possible. The game includes a few basic user interfaces, as well as various game logic, animations, sound effects, and graphics. Most textures and 3D assets were borrowed from the Fab workshop in UE5, but the majority of logic and user interface work is my own. This game was not made with the intent to be made public or sold. This is the final built version of the game, which is able to be ran via the TargetGameRL application.
+
+-Ryan Lorentzen
